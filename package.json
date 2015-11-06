@@ -1,0 +1,36 @@
+{
+  "name": "gulp-browsersync-jade-postcss-starter-project",
+  "version": "1.0.0",
+  "description": "Personal Portfolio Site",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Dessely",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^6.0.3",
+    "browser-sync": "^2.9.12",
+    "gulp": "^3.9.0",
+    "gulp-jade": "^1.1.0",
+    "gulp-postcss": "^6.0.1",
+    "gulp-scss": "^1.3.15",
+    "gulp-sourcemaps": "^1.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ouphana/gulp-browsersync-jade-postcss-starter-project.git"
+  },
+  "keywords": [
+    "gulp",
+    "browsersync",
+    "jade",
+    "postcss",
+    "autoprefixer",
+    "scss"
+  ],
+  "bugs": {
+    "url": "https://github.com/ouphana/gulp-browsersync-jade-postcss-starter-project/issues"
+  },
+  "homepage": "https://github.com/ouphana/gulp-browsersync-jade-postcss-starter-project#readme"
+}
