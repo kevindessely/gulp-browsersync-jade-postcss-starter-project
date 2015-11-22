@@ -11,3 +11,5 @@ Starter Project for Gulp, Browser-Sync, Jade, PostCSS[autoprefixer, scss]
 -   Watch for changes - `$ gulp`
 
    [node.js]: <http://nodejs.org>
+   [Gulp]: <https://github.com/gulpjs/gulp>
+
